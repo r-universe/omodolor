@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "spaAlign"]
 	path = spaAlign
-	url = https://github.com/cran/spaAlign
+	url = https://github.com/omodolor/spaalign
